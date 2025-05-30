@@ -1,0 +1,6 @@
+files:
+- main.swift
+- LiquidCrystal.swift
+settings:
+  INCLUDE_PRINTF_FLT: 'yes'
+  MISSING_RUNTIME_SHOW_WARNING: 'yes'
