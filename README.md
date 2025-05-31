@@ -3,7 +3,8 @@
 # English
 This library is a transcription of the original library [LiquidCrystal](https://github.com/arduino-libraries/LiquidCrystal), created by the Arduino team, licensed under GNU Lesser General Public License (LGPL) v2.1.
 
-This version has been rewritten into Swift for Arduino and supports 4-bit and 8-bit communication.
+
+This version has been rewritten into Swift for Arduino and supports 4-bit and 8-bit communication with LCD based on the Hitachi HD44780 (or a compatible) chipset.
 
 ## 📦 Features
 - 4-bit communication with LCD (D4-D7)
